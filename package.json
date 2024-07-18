@@ -1,0 +1,11 @@
+{
+  "name": "chordpro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "watch": "nodemon -L ./Hey\\ Jude.cho -e cho --exec \"chordpro.exe -o test.pdf --config=modern3\""
+  },
+  "author": "",
+  "license": "ISC"
+}
